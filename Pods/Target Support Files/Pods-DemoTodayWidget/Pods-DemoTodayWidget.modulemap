@@ -1,0 +1,6 @@
+framework module Pods_DemoTodayWidget {
+  umbrella header "Pods-DemoTodayWidget-umbrella.h"
+
+  export *
+  module * { export * }
+}
