@@ -2,8 +2,8 @@
 An example app with a Today Widget with Swift 4, Xcode 9.
 
 #API
-- Dummy API also implemented, for wasy understanding.
-- Simple , wasy UI with TableView
+- Dummy API also implemented, for easy understanding.
+- Simple , easy UI with TableView
 
 #How to use
 1. Build and run
